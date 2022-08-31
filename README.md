@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there! I'm Michał! 👋
 
-<!--
-**gitaramp/gitaramp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm frontend developer with a passion for Vue ❤
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages 💎
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- SASS
+- SQL
+
+## Frameworks ✨
+- Vue
+- Nuxt.js
+- Vuetify, buefy
+- React
+- Next.js
+
+
+## Tools 🎨
+- Photoshop
+- Visual Studio Code
